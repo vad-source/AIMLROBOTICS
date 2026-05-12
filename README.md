@@ -1,16 +1,16 @@
-# NLPAPP
-Repository of Proof Of Concepts to Familiarize with NLP Application Pipelines
+# AIMLROBOTICS
+Repository of Proof Of Concepts, Toy Problems to Familiarize with simple applications of Machine/Deep/Reinforcement Learning in Robotics
 ## Attribution
-Designed by RAJA VADHANA PRABHAKAR. Developed for academic training of course NLP Applications with AI assistance. 
+Designed by RAJA VADHANA PRABHAKAR. Developed for academic training of course AI & ML for Robotics th AI assistance. 
 For licensing details, see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
 ## How to Cite
 If you use this project/Proof-of-Concept for your academic training or research, please cite it as:
 
-PRABHAKAR, RAJA VADHANA. (2026). *NLPAPP* CODE. GitHub. https://github.com/vad-source/NLPAPP
+PRABHAKAR, RAJA VADHANA. (2026). *AIMLROBOTICS* CODE. GitHub. https://github.com/vad-source/AIMLROBOTICS
 ```bibtex
 @software{RAJAVADHANA@2026,
   author = {PRABHAKAR, RAJA VADHANA},
-  title = {{NLPAPP}},
-  url = {https://github.com/vad-source/NLPAPP},
+  title = {{AIMLROBOTICS}},
+  url = {https://github.com/vad-source/AIMLROBOTICS},
   year = {2026}
 }
